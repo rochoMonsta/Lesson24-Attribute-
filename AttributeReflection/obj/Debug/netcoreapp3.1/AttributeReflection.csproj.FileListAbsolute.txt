@@ -1,0 +1,11 @@
+C:\Users\rocho\Desktop\AttributeReflection\bin\Debug\netcoreapp3.1\AttributeReflection.exe
+C:\Users\rocho\Desktop\AttributeReflection\bin\Debug\netcoreapp3.1\AttributeReflection.deps.json
+C:\Users\rocho\Desktop\AttributeReflection\bin\Debug\netcoreapp3.1\AttributeReflection.runtimeconfig.json
+C:\Users\rocho\Desktop\AttributeReflection\bin\Debug\netcoreapp3.1\AttributeReflection.runtimeconfig.dev.json
+C:\Users\rocho\Desktop\AttributeReflection\bin\Debug\netcoreapp3.1\AttributeReflection.dll
+C:\Users\rocho\Desktop\AttributeReflection\bin\Debug\netcoreapp3.1\AttributeReflection.pdb
+C:\Users\rocho\Desktop\AttributeReflection\obj\Debug\netcoreapp3.1\AttributeReflection.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\AttributeReflection\obj\Debug\netcoreapp3.1\AttributeReflection.AssemblyInfoInputs.cache
+C:\Users\rocho\Desktop\AttributeReflection\obj\Debug\netcoreapp3.1\AttributeReflection.AssemblyInfo.cs
+C:\Users\rocho\Desktop\AttributeReflection\obj\Debug\netcoreapp3.1\AttributeReflection.dll
+C:\Users\rocho\Desktop\AttributeReflection\obj\Debug\netcoreapp3.1\AttributeReflection.pdb

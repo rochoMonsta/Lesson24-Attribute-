@@ -22,5 +22,9 @@ namespace AttributeReflection
             else
                 this.Name = Name;
         }
+        public override string ToString()
+        {
+            return $"{this.Path} - {this.Name}";
+        }
     }
 }

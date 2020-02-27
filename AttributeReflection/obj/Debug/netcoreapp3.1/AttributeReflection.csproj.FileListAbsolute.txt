@@ -9,3 +9,14 @@ C:\Users\rocho\Desktop\AttributeReflection\obj\Debug\netcoreapp3.1\AttributeRefl
 C:\Users\rocho\Desktop\AttributeReflection\obj\Debug\netcoreapp3.1\AttributeReflection.AssemblyInfo.cs
 C:\Users\rocho\Desktop\AttributeReflection\obj\Debug\netcoreapp3.1\AttributeReflection.dll
 C:\Users\rocho\Desktop\AttributeReflection\obj\Debug\netcoreapp3.1\AttributeReflection.pdb
+G:\All\GitHub\Lesson24-Attribute-\AttributeReflection\bin\Debug\netcoreapp3.1\AttributeReflection.exe
+G:\All\GitHub\Lesson24-Attribute-\AttributeReflection\bin\Debug\netcoreapp3.1\AttributeReflection.deps.json
+G:\All\GitHub\Lesson24-Attribute-\AttributeReflection\bin\Debug\netcoreapp3.1\AttributeReflection.runtimeconfig.json
+G:\All\GitHub\Lesson24-Attribute-\AttributeReflection\bin\Debug\netcoreapp3.1\AttributeReflection.runtimeconfig.dev.json
+G:\All\GitHub\Lesson24-Attribute-\AttributeReflection\bin\Debug\netcoreapp3.1\AttributeReflection.dll
+G:\All\GitHub\Lesson24-Attribute-\AttributeReflection\bin\Debug\netcoreapp3.1\AttributeReflection.pdb
+G:\All\GitHub\Lesson24-Attribute-\AttributeReflection\obj\Debug\netcoreapp3.1\AttributeReflection.csprojAssemblyReference.cache
+G:\All\GitHub\Lesson24-Attribute-\AttributeReflection\obj\Debug\netcoreapp3.1\AttributeReflection.AssemblyInfoInputs.cache
+G:\All\GitHub\Lesson24-Attribute-\AttributeReflection\obj\Debug\netcoreapp3.1\AttributeReflection.AssemblyInfo.cs
+G:\All\GitHub\Lesson24-Attribute-\AttributeReflection\obj\Debug\netcoreapp3.1\AttributeReflection.dll
+G:\All\GitHub\Lesson24-Attribute-\AttributeReflection\obj\Debug\netcoreapp3.1\AttributeReflection.pdb

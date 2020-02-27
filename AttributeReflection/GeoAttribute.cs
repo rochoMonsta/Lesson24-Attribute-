@@ -2,7 +2,7 @@
 
 namespace AttributeReflection
 {
-    [AttributeUsage(AttributeTargets.Property | AttributeTargets.Field | AttributeTargets.Constructor)]
+    [AttributeUsage(AttributeTargets.Property | AttributeTargets.Field | AttributeTargets.Constructor | AttributeTargets.Method)]
     public class GeoAttribute : Attribute
     {
         public int X { get; set; }

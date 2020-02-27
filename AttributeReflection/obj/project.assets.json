@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rocho\\Desktop\\AttributeReflection\\AttributeReflection.csproj",
+      "projectUniqueName": "G:\\All\\GitHub\\Lesson24-Attribute-\\AttributeReflection\\AttributeReflection.csproj",
       "projectName": "AttributeReflection",
-      "projectPath": "C:\\Users\\rocho\\Desktop\\AttributeReflection\\AttributeReflection.csproj",
+      "projectPath": "G:\\All\\GitHub\\Lesson24-Attribute-\\AttributeReflection\\AttributeReflection.csproj",
       "packagesPath": "C:\\Users\\rocho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rocho\\Desktop\\AttributeReflection\\obj\\",
+      "outputPath": "G:\\All\\GitHub\\Lesson24-Attribute-\\AttributeReflection\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
